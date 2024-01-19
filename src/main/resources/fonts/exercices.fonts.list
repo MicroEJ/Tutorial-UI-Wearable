@@ -1,0 +1,12 @@
+# Copyright 2022-2024  MicroEJ Corp. All rights reserved.
+# Use of this source code is governed by a BSD-style license that can be found with this software.
+
+
+#the small-sized font
+/fonts/SourceSansPro_21px-600.ejf:0x21-0x7a:4
+
+#the medium-sized font
+/fonts/SourceSansPro_27px-500.ejf:0x21-0x7a:4
+
+#the large-sized font
+/fonts/SourceSansPro_53px-600.ejf:0x21-0x7a:4
