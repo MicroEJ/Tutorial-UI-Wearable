@@ -1,0 +1,20 @@
+<!--
+	Copyright 2019-2024  MicroEJ Corp. All rights reserved.
+	Use of this source code is governed by a BSD-style license that can be found with this software.
+-->
+
+<immutables>
+	<array id="applicationNames" type="java.lang.String[]">
+		<elem value="Activity"/>
+		<elem value="Heart Rate"/>
+		<elem value="Compass"/>
+		<elem value="Calendar"/>
+		<elem value="Message"/>
+		<elem value="GPS"/>
+		<elem value="Light"/>
+		<elem value="Music"/>
+		<elem value="Twitter"/>
+		<elem value="Parameters"/>
+		<elem value="About"/>
+	</array>
+</immutables>
