@@ -1,0 +1,17 @@
+target~
+bin
+src-adpgenerated
+wifi
+com.microej.exercise*
+launch/*.properties
+.scannerwork
+.settings/org.sonarlint.eclipse.core.prefs
+.gradle
+.idea/
+build/
+local.properties
+tmp_dir
+*_ui-training-wearable_*
+*_repository_backup
+*.zip
+*__pycache__*
