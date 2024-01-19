@@ -1,0 +1,11 @@
+# Copyright 2022 MicroEJ Corp. All rights reserved._  
+# Use of this source code is governed by a BSD-style license that can be found with this software.
+
+# the new image for the shoe icon
+/step3/shoes.png:A8
+
+# the new image for the localization icon
+/step3/localization.png:A8
+
+# the new image for the background
+/step3/background.png:RGB565
